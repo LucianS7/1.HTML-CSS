@@ -1,0 +1,27 @@
+body {
+  height: 3000px;
+}
+
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.shirt-image {
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+}
+
+.discount {
+  position: absolute;
+  right: 0px;
+  top: 10px;
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}

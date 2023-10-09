@@ -1,0 +1,14 @@
+.grid-practice {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 10px;
+}
+
+.column1, .column3 {
+  background-color: lightblue;
+}
+
+.column2, .column4 {
+  background-color: lightpink;
+}

@@ -1,0 +1,38 @@
+body {
+  height: 3000px;
+}
+
+.position-practice {
+  background-color: grey;
+  height: 180px;
+  width: 320px;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+}
+
+.close-button {
+  position: absolute;
+  left: -10px;
+  top: -10px;
+  background-color: black;
+  color: white;
+  border-radius: 15px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.timestamp {
+  position: absolute;
+  right: 12px;
+  bottom: 10px;
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}

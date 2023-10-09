@@ -1,0 +1,11 @@
+body {
+  padding-bottom: 2000px;
+}
+
+.position-practice {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  background-color: black;
+  color: white;
+}

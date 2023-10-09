@@ -1,0 +1,9 @@
+.flex-practice {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.flex1, .flex2, .flex3, .flex4 {
+  background-color: lightpink;
+}

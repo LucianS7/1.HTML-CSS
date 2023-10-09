@@ -1,0 +1,22 @@
+p {
+  display: inline-block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-right: 15px;
+  width: 200px;
+  vertical-align: middle;
+}
+
+.yes-button, .no-button {
+  color: black;
+  background-color: lightgray;
+  border-width: 1px;
+  border-radius: 4px;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 500;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
+}

@@ -1,0 +1,31 @@
+p {
+  font-family: Arial;
+  font-size: 18px;
+  margin-top: 0;
+}
+
+.customer-experience-container {
+  border: solid;
+  border-color: rgb(150, 150, 150);
+  border-width: 1px;
+  display: inline-block;
+  padding-left: 25px;
+  padding-right: 150px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.yes-button, .no-button {
+  color: black;
+  background-color: lightgray;
+  border-width: 1px;
+  border-radius: 4px;
+  display: inline-block;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 500;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
+}

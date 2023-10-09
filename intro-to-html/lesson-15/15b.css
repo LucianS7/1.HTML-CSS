@@ -1,0 +1,12 @@
+body {
+  height: 3000px;
+}
+
+.position-practice {
+  background-color: grey;
+  height: 180px;
+  width: 320px;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+}

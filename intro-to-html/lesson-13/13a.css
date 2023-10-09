@@ -1,0 +1,24 @@
+.flex-practice {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+}
+
+.flex1 {
+  background-color: lightpink;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+}
+
+.flex2 {
+  background-color: lightblue;
+  width: 200px;
+}
+
+.item1 {
+  background-color: black;
+  color: white;
+}
